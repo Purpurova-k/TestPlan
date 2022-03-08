@@ -14,9 +14,9 @@
 
     1.1. Переход на Страницу через "Каталог курсов":
     - Зайти на [главную страницу](https://netology.ru/) Нетологии;
-    - Нажать на [Каталог курсов](), размещенный в верхней части Страницы;
-    - Навести курсор на направление [Программирование]();
-    - Выбрать курс [Тестировщик ПО]() из списка "Для начинающих".
+    - Нажать на [Каталог курсов](https://github.com/Purpurova-k/TestPlan/blob/905a329fc6bfe06fdcdf0464b2c034cf99f060c9/screenshots/KatalogKursov.png), размещенный в верхней части Страницы;
+    - Навести курсор на направление [Программирование](https://github.com/Purpurova-k/TestPlan/blob/905a329fc6bfe06fdcdf0464b2c034cf99f060c9/screenshots/KatalogKursov2.png);
+    - Выбрать курс [Тестировщик ПО](https://github.com/Purpurova-k/TestPlan/blob/905a329fc6bfe06fdcdf0464b2c034cf99f060c9/screenshots/KatalogKursov3.png) из списка "Для начинающих".
 
     1.2. Переход на Страницу через "Направления обучения":
     - Зайти на [главную страницу](https://netology.ru/) Нетологии;
